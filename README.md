@@ -12,6 +12,7 @@
 <h3 align="centre"> Heroku </h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kyawwa/vc_bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 Get STRING_NAME from here:
 
